@@ -1,0 +1,12 @@
+.footer {
+  background: #559996;
+  min-height: 20vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footer-block {
+  flex: 0 0 20vw;
+  justify-content: center;
+}
