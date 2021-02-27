@@ -1,0 +1,20 @@
+.header {
+  background: var(--main-bg-color);
+  min-height: 5vh;
+  display: flex;
+}
+
+.header-title {
+  margin-left: 5%;
+}
+.header-title__div {
+  margin: auto;
+}
+
+.header-image {
+  width: 20%;
+}
+
+.header-image__main {
+  width: 100%;
+}
